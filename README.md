@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atimaad Karamat</h1>
 <h3 align="center">A B.Tech computer science student from India</h3>
 
-- 🌱 I’m currently learning **JS, Angular**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **atimaadkaramat@gmail.com**
 
