@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atimaad Karamat</h1>
-<h3 align="center">A B.Tech computer science student from India</h3>
+<h3 align="center">A b.Tech computer science student from India</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
