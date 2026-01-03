@@ -38,9 +38,6 @@ with a growing interest in web technologies and real-world software development.
 <p>
   <a href="https://www.linkedin.com/in/atimaadkaramat" target="_blank">LinkedIn</a> •
   <a href="https://www.leetcode.com/atimaadkaramat" target="_blank">LeetCode</a> •
-  <a href="https://twitter.com/atimaadkaramat" target="_blank">Twitter</a> •
-  <a href="https://instagram.com/atimaadkaramat" target="_blank">Instagram</a> •
-  <a href="https://fb.com/atimaadkaramat" target="_blank">Facebook</a>
 </p>
 
 <hr>
